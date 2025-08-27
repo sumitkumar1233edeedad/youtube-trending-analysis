@@ -48,8 +48,7 @@ Copy code
 
 ## 🛠️ How to Run
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/youtube-trending-analysis.git
+    https://github.com/sumitkumar1233edeedad/youtube-trending-analysis.git
 Navigate into the folder:
 
 bash
